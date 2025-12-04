@@ -7,7 +7,7 @@ handling by pairing tactile feedback (buttons) with both audio (Piezo buzzer) an
 When a user presses a specific button, the system produces a corresponding musical note from the C Major 
 scale (C4 to C5) and lights up a mapped LED, creating a synchronized audio-visual experience.
 
-*> **Note:** For a visual look, acess: https://www.tinkercad.com/things/ewI3n8o5Gzi-projeto-piano-com-arduino.*
+*> **Note:** For a visual look, access: https://www.tinkercad.com/things/ewI3n8o5Gzi-projeto-piano-com-arduino.*
 
 ## 🛠 Hardware Requirements
 * **Microcontroller:** Arduino Uno (or compatible)
